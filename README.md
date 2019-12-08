@@ -2,7 +2,7 @@
 
 **Champions**: [Mark S. Miller](https://github.com/erights)
 
-**Author**: [Jack Works](https://github.com/Jack-Works), [@mnis1000](https://github.com/mnis1000) and Mark S. Miller
+**Author**: [Jack Works](https://github.com/Jack-Works), [@mmis1000](https://github.com/mmis1000) and Mark S. Miller
 
 **Stage**: N/A
 
