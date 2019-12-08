@@ -1,8 +1,8 @@
 # Proposal: Strict built-in functions
 
-**Champions**: Finding one...
+**Champions**: [Mark S. Miller](https://github.com/erights)
 
-**Author**: Jack Works
+**Author**: Jack Works, Mark S. Miller
 
 **Stage**: N/A
 
