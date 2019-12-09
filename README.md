@@ -8,7 +8,7 @@
 
 ## Motivation
 
-This code is evaluated differently in Chrome, Firefox and Edge.
+This code is evaluated differently in Chrome, Safari, Firefox and Edge.
 
 ```js
 function getOwnPropertyDescriptor() {
@@ -28,13 +28,13 @@ test();
 <details>
 <summary>Evaluation result</summary>
 
-Chrome: <img src="./chrome.png" /><br />
+Chrome and Safari: <img src="./chrome.png" /><br />
 Firefox: <img src="./firefox.png" /><br />
 Edge: <img src="./edge.png" /><br />
 
 </details>
 
-At first, I though it is a "undefined behavior" so I looked up the spec. It turns out that both Chrome, Firefox and Edge are not violating the spec.
+At first, I though it is a "undefined behavior" so I looked up the spec. It turns out that browsers are not violating the spec.
 
 ## Spec
 
