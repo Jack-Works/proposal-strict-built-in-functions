@@ -1,8 +1,8 @@
 # Proposal: Strict built-in functions
 
-**Champions**: [Mark S. Miller](https://github.com/erights)
+**Champions**: [Mark S. Miller](https://github.com/erights), [Jack Works](https://github.com/Jack-Works)
 
-**Author**: [Jack Works](https://github.com/Jack-Works), [@mmis1000](https://github.com/mmis1000) and Mark S. Miller
+**Author**: Jack Works, [@mmis1000](https://github.com/mmis1000) and Mark S. Miller
 
 **Stage**: N/A
 
@@ -58,5 +58,5 @@ All built-in function objects must be strict functions.
 
 ```diff
 - Built-in functions that are ECMAScript function objects must be strict functions.
-+  Built-in function objects must be strict functions.
++ Built-in function objects must be strict functions.
 ```
